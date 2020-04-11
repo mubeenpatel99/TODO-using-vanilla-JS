@@ -13,6 +13,16 @@ body {
     min-width: 100%;
 }
 
+.error {
+    color: red;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
 footer {
     position: fixed;
     bottom: 0;
