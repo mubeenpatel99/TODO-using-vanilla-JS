@@ -2,15 +2,22 @@
 Want a solution to be more productive with work, and not to forget important stuff? this is it. There are tons of TODO management applications available but, we have something different here. This is an amazing TODO list management application built in Vanilla JavaScript.
 
 ### Want to try?
-* Will be available online at your service soon, if you wish to try it now download the zip.
+* visit
 ```
-Navigate to 
+https://mubeenpatel99.github.io/mubeenpatel.github.io/files/ToDo/
+```
+
+### File structure
+* The project file structure looks like this
+```
 ----src
     |-- index.html
     |-- app.js
     |-- style.css
 ```
-* open the **index.html** in any browser and you are good to go.
+* **index.html** - Contains all the markdown needed.
+* **style.css** &nbsp;&nbsp;&nbsp;&nbsp;- Contains all the styling.
+* **app.js** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Here is where the majic happens, all the logic stays here.
 
 ### The features of the application
 * Worried about privacy? Not any more your data stays on your device and we cant even view it, no control over your data.
