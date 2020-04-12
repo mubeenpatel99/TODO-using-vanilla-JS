@@ -4,7 +4,7 @@ Want a solution to be more productive with work, and not to forget important stu
 ### Want to try?
 * visit
 ```
-https://mubeenpatel99.github.io/mubeenpatel.github.io/files/ToDo/
+https://mubeenpatel99.github.io/files/ToDo/
 ```
 
 ### File structure
