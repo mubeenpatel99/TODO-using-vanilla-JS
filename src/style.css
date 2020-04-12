@@ -133,6 +133,7 @@ form button:hover {
 .completed {
     text-decoration: line-through;
     opacity: 0.5;
+    transform: translateX(20px);
 }
 
 .todo-item {
@@ -146,8 +147,19 @@ form button:hover {
 
 .fall {
     /*transform: translateY(8rem) rotateZ(20deg);*/
-    transition: opacity 0.5s ease-in-out;
-    opacity: 0;
+    /*transition: opacity 1s ease-in-out;*/
+    animation: todoFade 0.8s ease forwards;
+}
+
+@keyframes todoFade {
+    from {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+    to {
+        opacity: 0;
+        transform: translateX(50px);
+    }
 }
 
 select {
